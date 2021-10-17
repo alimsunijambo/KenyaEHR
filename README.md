@@ -1,0 +1,2 @@
+# KenyaEHR
+An open source Electronic Health Record(EHR) customized for Kenyanl’s public healthcare system. It is designed for use in limited resource settings, and seamlessly integrates registration, clinical diagnosis and investigations, prescriptions, reporting, and supply chain management. It facilitates care coordination across facility- and community-based points of service, integrating data to map disease, target care &amp; continuously improve healthcare service delivery.
